@@ -16,3 +16,4 @@ function asyncGetTeams(){
 
 console.log('Console 3');
 console.log(asyncGetTeams());
+console.log('Termina script');
