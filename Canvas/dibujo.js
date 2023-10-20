@@ -28,7 +28,7 @@ ctx.fill();
 
 ctx.beginPath();
 ctx.fillStyle = 'rgb(255, 255, 255)';
-ctx.moveTo(210, 230);
-ctx.lineTo(188, 230);
-ctx.lineTo(240, 245);
+ctx.moveTo(210, 220);
+ctx.lineTo(188, 219);
+ctx.lineTo(200, 245);
 ctx.fill();
